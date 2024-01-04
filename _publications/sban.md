@@ -1,5 +1,5 @@
 ---
-title: "S-Ban: Secure Biometric Authentication using Noise"
+title: "S-BAN: Secure Biometric Authentication using Noise"
 collection: publications
 permalink: /publication/sban
 excerpt: 'Information theoritic security protocol for Secure Verification of fingerprint and face modalities using Noise signals'
