@@ -16,7 +16,7 @@ redirect_from:
   - /resume
 ---
 
-<!-- {% include base_path %} -->
+{% include base_path %}
 
 <embed src="../files/CV_Praguna_Manvi_2023_updated.pdf" width="900" height="900" 
  type="application/pdf"> -->
