@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/sian
 excerpt: 'Information theoritic security protocol for Secure Iris Verification using Noise signals'
 date: 2022-05-01
-venue: 'IJCB 2022'
+venue: 'IJCB'
 paperurl: 'https://drive.google.com/drive/folders/1i3xQDrMv5UpoixNsmjfm2gNzxM3PWgHe?usp=drive_link'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
