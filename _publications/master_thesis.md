@@ -1,5 +1,5 @@
 ---
-title: "Secuirty from uncertainity: Desigining Privacy Preserving Verification Methods using Noise"
+title: "Security from uncertainity: Desigining Privacy Preserving Verification Methods using Noise"
 collection: publications
 permalink: /publication/master_thesis
 excerpt: 'Information theoritic security verfication system using noise for biometric template protection'
