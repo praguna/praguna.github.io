@@ -36,7 +36,7 @@ Work experience
 In a remote internship, contributed to Habana Pytorch's software stack for enabling eager mode Deep learning training and inference on Habana's accelerators. The role included rewriting custom torch-ops to the graph compiler's frontend, where a few core tensor operators were implemented and added to the custom torch plugin. Along with the torch-ops, a few composite kernels and visualization-debug tools for the compiled torch-graph were developed.
 
 
-* Nov 2021- Nov 2023: RL Researcher
+* Nov 2021- Nov 2023: Research Associate
   * CVIT (BASIL), IIIT Hyderabad
 ===
 Developed and presented an R&D project as part of lab work to UIDAI, focusing on a
