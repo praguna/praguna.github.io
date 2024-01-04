@@ -20,6 +20,7 @@ News
 ======
 
 - **Decemeber 16, 2023:** Successfully defended my Master's thesis titled "Security from Uncertainity: Designing Privacy Preserving Verification Methods using Noise".
+- **November 10, 2023:** Filed Patent titled "SYSTEM AND METHOD FOR AUTHENTICATING AN IRIS OF A USER USING BIOMETRIC NOISE".
 - **August 12, 2023:** Paper "S-BAN: Secure Biometric Authentication using Noise" accepted in ICVGIP, 2023.
 - **April 10, 2022:**  Paper titled "SIAN: Secure Iris Authenication using Noise" accepted in IJCB, 2022.
   
