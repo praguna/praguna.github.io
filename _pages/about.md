@@ -19,7 +19,7 @@ I am keen on learning new things and working on problems where I can make an imp
 News
 ======
 
-- **Decemeber 16, 2023:** Successfully defended my Master's thesis titled "Security from Uncertainity: Designing Privacy Preserving Methods using Noise".
+- **Decemeber 16, 2023:** Successfully defended my Master's thesis titled "Security from Uncertainity: Designing Privacy Preserving Verification Methods using Noise".
 - **August 12, 2023:** Paper "S-BAN: Secure Biometric Authentication using Noise" accepted in ICVGIP, 2023.
 - **April 10, 2022:**  Paper titled "SIAN: Secure Iris Authenication using Noise" accepted in IJCB, 2022.
   
