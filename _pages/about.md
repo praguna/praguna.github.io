@@ -27,14 +27,14 @@ News
 Work experience
 ======
 * July 2023 - Present: Senior SDE
-   * Mai Labs | Remote
+   * Mai Labs | Hyderabad
 ===
  Startup at IIITH-CIE, I currently work as the team lead for an real-time analytics team focused on blockchain transactions. My responsibilities encompass flagging suspicious activities, maintaining an event-driven pipeline, managing data-stores, tracking relevant metrics, and visualizing transaction data to provide valuable insights.
 
 * August 2022 - March 2023: Graduate Intern 
   * Intel | Bangalore, India
 ===
-In a remote internship, contributed to Habana Pytorch's software stack for enabling eager mode Deep learning training and inference on Habana's accelerators. The role included rewriting custom torch-ops to the graph compiler's frontend, where a few core tensor operators were implemented and added to the custom torch plugin. Along with the torch-ops, a few composite kernels and visualization-debug tools for the compiled torch-graph were developed.
+Contributed to Intel Habana Pytorch's software stack for enabling eager mode Deep learning training and inference on Habana's accelerators. The role included rewriting custom torch-ops to the graph compiler's frontend, where a few core tensor operators were implemented and added to the custom torch plugin. Along with the torch-ops, a few composite kernels and visualization-debug tools for the compiled torch-graph were developed.
 
 
 * Nov 2021- Nov 2023: Research Associate
