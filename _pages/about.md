@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, there!
-This is Praguna Manvi.
+Hello, there !
+&nbsp; This is Praguna Manvi. <br>
 Welcome to my page.
 
-I am working as a Senior SDE at a startup MAI Labs. I did my masters under Prof. Anoop Namboodiri and Prof. Kannan Srinathan in Computer Vision and Security. I specifically worked on security protocols and biometric template protection. I completed my B.Tech in Computer Science from BMSCE, Bangalore and M.S by Research from IIIT Hyderabad in 2023. 
+I am working as a Senior SDE at a startup MAI Labs. I did my masters under Prof. Anoop Namboodiri and Prof. Kannan Srinathan in Computer Vision and Security. I specifically worked on security protocols and biometric template protection. I completed my B.Tech in Computer Science from BMSCE in 2020, Bangalore and M.S by Research from IIIT Hyderabad in 2023. 
 
-I am keen on learning new things and working on problems where I can make an impact. For more details please find my [CV](https://praguna.github.io/CV/).
+I am keen on learning new things and working on problems where I can make an impact. For more details please find my [CV](https://praguna.github.io/cv/).
 
 News
 ======
@@ -28,7 +28,7 @@ Work experience
 * July 2023 - Present: Senior SDE
    * Mai Labs | Remote
 ===
- Startup at [IIITH-CIE], I currently work as the team lead for an real-time analytics team focused on blockchain transactions. My responsibilities encompass flagging suspicious activities, maintaining an event-driven pipeline, managing data-stores, tracking relevant metrics, and visualizing transaction data to provide valuable insights.
+ Startup at IIITH-CIE, I currently work as the team lead for an real-time analytics team focused on blockchain transactions. My responsibilities encompass flagging suspicious activities, maintaining an event-driven pipeline, managing data-stores, tracking relevant metrics, and visualizing transaction data to provide valuable insights.
 
 * August 2022 - March 2023: Graduate Intern 
   * Intel | Bangalore, India
