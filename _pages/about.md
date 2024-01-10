@@ -30,7 +30,7 @@ Work experience
 * July 2023 - Present: Senior SDE
    * Mai Labs | Hyderabad
 ===
- Startup at IIITH-CIE, I currently work as the team lead for an real-time analytics team focused on blockchain transactions. My responsibilities encompass flagging suspicious activities, maintaining an event-driven pipeline, managing data-stores, tracking relevant metrics, and visualizing transaction data to provide valuable insights.
+ Startup at IIITH-CIE, I currently work as the team lead for a real-time analytics team focused on blockchain transactions. My responsibilities encompass flagging suspicious activities, maintaining an event-driven pipeline, managing data-stores, tracking relevant metrics, and visualizing transaction data to provide valuable insights.
 
 * August 2022 - March 2023: Graduate Intern 
   * Intel | Bangalore, India
