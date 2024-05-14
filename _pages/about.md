@@ -11,7 +11,7 @@ Hello there!<br>
 I'm **Praguna Manvi**. <br>
 Welcome to my page.
 
-I am currently working as a Senior SDE at MAI labs, an enterprise blockchain startup. I pursued my master's degree under the guidance of Prof. Anoop Namboodiri and Prof. Kannan Srinathan in Computer Vision and Security. My research was focussed was on security protocols and biometric template protection. I completed my B.Tech in Computer Science from BMSCE, Bangalore in 2020, and obtained my M.S by Research from IIIT Hyderabad in 2023.
+I am currently working as a Senior SDE at MAI labs, an enterprise blockchain startup. I pursued my master's degree under the guidance of Prof. Anoop Namboodiri and Prof. Kannan Srinathan in Computer Vision and Security. My focus was on security protocols and biometric template protection. I completed my B.Tech in Computer Science from BMSCE, Bangalore in 2020, and obtained my M.S by Research from IIIT Hyderabad in 2023.
 
 
 I am keen on learning new things and working on problems where I can make an impact. For more details please find my [CV](https://praguna.github.io/cv/).
