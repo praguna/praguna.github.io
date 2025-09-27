@@ -11,7 +11,7 @@ Hello there!<br>
 I'm **Praguna Manvi**. <br>
 Welcome to my page.
 
-I am currently working as a Senior SDE at MAI labs, an enterprise blockchain startup. I pursued my master's degree under the guidance of Prof. Anoop Namboodiri and Prof. Kannan Srinathan in Computer Vision and Security. My focus was on security protocols and biometric template protection. I completed my B.Tech in Computer Science from BMSCE, Bangalore in 2020, and obtained my M.S by Research from IIIT Hyderabad in 2023.
+I am currently working as a Deep Learning Engineer at MathWorks developing quantization library for embedded workflows. I pursued my master's degree under the guidance of Prof. Anoop Namboodiri and Prof. Kannan Srinathan in Computer Vision and Security. My focus was on security protocols and biometric template protection. I completed my B.Tech in Computer Science from BMSCE, Bangalore in 2020, and obtained my M.S by Research from IIIT Hyderabad in 2023.
 
 
 I am keen on learning new things and working on problems where I can make an impact. For more details please find my [CV](https://praguna.github.io/cv/).
@@ -27,10 +27,20 @@ News
 
 Work experience
 ======
-* July 2023 - Present: Senior SDE
+* July 2024 - Present Deep Learning SDE
+   * MathWorks | Bangalore
+===
+I currently work as a Software Engineer in Deep Learning, developing optimized
+quantization algorithms for the MATLAB’s deep learning framework to enable inference
+using fixed-point compute on resource-constrained embedded targets. I also work on building utilities for code generation workflows.
+
+======
+* July 2023 - July 2024: Senior SDE
    * Mai Labs | Hyderabad
 ===
- Startup at IIITH-CIE, I currently work as the team lead for a real-time analytics team focused on blockchain transactions. My responsibilities encompass flagging suspicious activities, maintaining an event-driven pipeline, managing data-stores, tracking relevant metrics, and visualizing transaction data to provide valuable insights.
+Led a real-time analytics team focused on enterprise blockchain transactions, building
+a scalable, distributed platform to flag suspicious activity and visualize KYT (Know Your Transaction) data. Also, developed an LLM-based platform with a custom prompt
+architecture for vulnerability analysis of customer-uploaded smart contracts.
 
 * August 2022 - March 2023: Graduate Intern 
   * Intel | Bangalore, India
